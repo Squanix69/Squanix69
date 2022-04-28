@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Squanix
-- 👀 I’m interested in cool things
-- 🌱 I’m currently learning something
-- 📫 How to reach me - https://discord.gg/dACbMF97ND
+- 📫 How to reach me - https://discord.gg/redengine
 - 🌐 My website - https://squanix.vip
 - 🎮 I am official redENGINE reseller
